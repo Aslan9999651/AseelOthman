@@ -1,0 +1,14 @@
+{
+  "TEST-HWID-12345": {
+    "active": true,
+    "expiry": "2026-12-31"
+  },
+  "A1B2C3D4E5F6G7H8": {
+    "active": true,
+    "expiry": "2026-09-30"
+  },
+  "X9Y8Z7W6V5U4T3S2": {
+    "active": false,
+    "expiry": "2026-06-15"
+  }
+}

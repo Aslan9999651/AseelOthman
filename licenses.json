@@ -12,11 +12,11 @@
     "expiry": "2026-06-15"
   },
   "F5E69B8911BD8FD0": {
-    "active": true,
+    "active": false,
     "expiry": "2026-08-01"
   },
   "FDE79AFCF0B": {
-    "active": true,
+    "active": false,
     "expiry": "2026-11-14"
   }
 }

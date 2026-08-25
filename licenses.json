@@ -26,5 +26,9 @@
   "ASEEL-TERMUX-HWID-KEY": {
     "active": true,
     "expiry": "2029-11-14"
+  },
+  "959C00DD196741BB": {
+    "active": true,
+    "expiry": "2029-11-14"
   }
 }
